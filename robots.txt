@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://osingstr.github.io/sitemap.html
+Sitemap: https://osingstr.github.io/fa/sitemap.html
+Sitemap: https://osingstr.github.io/fi/sitemap.html
+Sitemap: https://osingstr.github.io/fu/sitemap.html
